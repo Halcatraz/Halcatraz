@@ -15,7 +15,7 @@ List of all tryhackme rooms. Contains badges, points, average time.
 
 | Solved | Name | Difficulty | Time | Type | Free | Points | Badge |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [-] | [Linux Fundamentals Part 1]([https://tryhackme.com/room/offensivesecurityintro](https://tryhackme.com/room/linuxfundamentalspart1)) | <span style="color: green">Info</span> | 20 | walkthrough | Yes |  |   |
+| [-] | [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) | <span style="color: white">Info</span> | 20 | walkthrough | Yes |  |   |
 <!--
 **Halcatraz/Halcatraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
