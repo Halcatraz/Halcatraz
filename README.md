@@ -25,6 +25,11 @@ List of all tryhackme rooms. Contains badges, points, average time.
 | [-] | [Putting all together](https://tryhackme.com/room/puttingitalltogether) | <span style="color: green">Easy</span> | 15 | walkthrough | Yes |  |   |
 | [-] | [Inside a Computer System ](https://tryhackme.com/room/insideacomputer) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes |  |   |
 | [-] | [Computer Types](https://tryhackme.com/room/computertypes) | <span style="color: green">Easy</span> | 30 | walkthrough | Yes |  |   |
+| [-] | [Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics) | <span style="color: green">Easy</span> | 30 | walkthrough | Yes | 64 |   |
+| [-] | [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals) | <span style="color: green">Easy</span> | 30 | walkthrough | Yes | 56 |   |
+| [-] | [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction) | <span style="color: green">Easy</span> | 30 | walkthrough | Yes | 56 |   |
+| [-] | [Windows Basics](https://tryhackme.com/room/windowsbasics) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 64 |   |
+
 | [-] | [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) | <span style="color: white">Info</span> | 20 | walkthrough | Yes |  |   |
 | [-] | [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx) | <span style="color: white">Info</span> | 30 | walkthrough | Yes |  |   |
 
