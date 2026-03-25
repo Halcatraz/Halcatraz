@@ -32,6 +32,7 @@ List of all tryhackme rooms. Contains badges, points, average time.
 | [-] | [Data Representation](https://tryhackme.com/room/datarepresentation) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 48 |   |
 | [-] | [Data Encoding ](https://tryhackme.com/room/dataencoding) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 56 |   |
 | [-] | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 56 |   |
+| [-] | [Search Skills](https://tryhackme.com/room/searchskills) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 88 |   |
 
 | [-] | [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) | <span style="color: white">Info</span> | 20 | walkthrough | Yes |  |   |
 | [-] | [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx) | <span style="color: white">Info</span> | 30 | walkthrough | Yes |  |   |
