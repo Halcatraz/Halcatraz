@@ -33,9 +33,10 @@ List of all tryhackme rooms. Contains badges, points, average time.
 | [-] | [Data Encoding ](https://tryhackme.com/room/dataencoding) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 56 |   |
 | [-] | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 56 |   |
 | [-] | [Search Skills](https://tryhackme.com/room/searchskills) | <span style="color: green">Easy</span> | 45 | walkthrough | Yes | 88 |   |
-
 | [-] | [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) | <span style="color: white">Info</span> | 20 | walkthrough | Yes |  |   |
 | [-] | [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx) | <span style="color: white">Info</span> | 30 | walkthrough | Yes |  |   |
+| [-] | [Windows Fundamentals Part 2](https://tryhackme.com/room/windowsfundamentals2x0x) | <span style="color: white">Info</span> | 30 | walkthrough | Yes | 125 |   |
+
 
 <!--
 **Halcatraz/Halcatraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
