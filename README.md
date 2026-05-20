@@ -36,6 +36,7 @@ List of all tryhackme rooms. Contains badges, points, average time.
 | [-] | [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) | <span style="color: white">Info</span> | 20 | walkthrough | Yes |  |   |
 | [-] | [Windows Fundamentals Part 1](https://tryhackme.com/room/windowsfundamentals1xbx) | <span style="color: white">Info</span> | 30 | walkthrough | Yes |  |   |
 | [-] | [Windows Fundamentals Part 2](https://tryhackme.com/room/windowsfundamentals2x0x) | <span style="color: white">Info</span> | 30 | walkthrough | Yes | 125 |   |
+| [-] | [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx) | <span style="color: white">Info</span> | 30 | walkthrough | Yes | 56 |   |
 
 
 <!--
